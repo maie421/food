@@ -1,0 +1,24 @@
+.search_requirement,.requirement{
+	font-size: 15px;
+    color: #717171;
+	float:left;
+	padding:5px 0;
+}
+.search_requirement{
+	margin-right:10px;
+	width:100px;
+	clear:both;
+	background-color:#f7f7f7;
+}
+.requirement{
+	margin-right:10px;
+}
+#member_text{
+	border:1px solid #a9a9a9;
+	width:130px;
+	color:#565555;
+}
+#member_table{
+	clear:both;
+
+}

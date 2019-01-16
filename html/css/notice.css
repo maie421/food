@@ -1,0 +1,155 @@
+#side{
+	width:180px;
+	float:left;
+	margin-top:45px;
+}
+#side_menu li{
+	margin:22px 0;
+	font-weight:bolder;
+	font-size:14px;
+}
+#side_menu li a{
+	color:#242424;
+	text-decoration:none;
+}
+#side_menu li a:hover{
+	text-decoration:underline;
+}
+#center_line{
+	width:30px;
+	margin:10px 0 14px 0;
+	border-top:1px solid #242424;
+}
+h2{
+	font-weight:900;
+}
+h5{
+	margin-top:50px;
+}
+h3{
+	font-weight:bolder;
+}
+#time{
+	margin-top:16px;
+	font-size:12px;
+	line-height:17px;
+	color:#959595;
+}
+#notice_main{
+	float:left;
+}
+#notice_main_title{
+	font-size:18px;
+	font-weight:bold;
+	margin:25px 0 15px 0;
+}
+table,th,td{
+	border-collapse: collapse;
+}
+th{
+	background-color:#f7f7f7;
+	border-top:1px solid #717171;
+	border-bottom:1px solid #dbdbdb;
+}
+td{
+	border-bottom:1px solid #dbdbdb;
+}
+td a{
+	color:#717171;
+	text-decoration:none;
+}
+td a:hover{
+	text-decoration:underline;
+}
+.notice{
+	padding:10px 0;
+	width:82px;
+	font-size:14px;
+	color:#717171;
+	text-align:center;
+}
+.notice_title,#member_email{
+	font-size:14px;
+	color:#717171;
+}
+.notice_title{
+	width:530px;
+}
+.number_page_center{
+	width:790px;
+	margin-top:20px;
+	text-align:center;
+}
+.number_page_center ul li{
+	padding:5px;
+	display:inline;
+}
+.number_page_center ul li a{
+	color:#717171;
+	text-decoration:none;
+}
+#number_page{
+	margin:0 auto;
+	margin-top:20px;
+	width:25px;
+	height:22px;
+	text-align:center;
+	padding-top:3px;
+}
+#search{
+	width:870px;
+	margin-top:37px;
+	background-color:#f7f7f7;
+	border-top:1px solid #e8e8e8;
+	border-bottom:1px solid #e8e8e8;
+	padding:10px 0;
+	text-align:center;
+}
+#search_select,#search_text{
+	padding:5px;
+	border:1px solid #d0d0d0;
+}
+#search_text{
+	width:280px;
+}
+#search_button,.write_button{
+	background-color:#979797;
+	color:white;
+	border:none;
+	padding:6px 10px;
+}
+.write_button{
+	float:right;
+	margin-right:22px;
+	font-size:12px;
+}
+#search_button:hover,.write_button:hover{
+	background-color:#626262;
+	cursor:pointer;
+}
+/*관리자*/
+.notice_ch{
+	width:20px;
+	text-align:center;
+}
+#email_select{
+	border:1px solid #a9a9a9;
+	width:63px;
+	margin:0 5px;
+}
+#member_email{
+	width:245px;
+}
+#point_text{
+	width:50px;
+	border:1px solid #d0d0d0;
+	margin-left:10px;
+	text-align:center;
+}
+#radio{
+	margin:0 10px;
+}
+select { 
+	-moz-appearance: none;
+	appearance: none; 
+}
